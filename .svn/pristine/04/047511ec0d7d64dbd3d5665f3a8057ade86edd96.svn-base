@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\AddressChangesAutomated\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F0DBDF-5CBD-42EF-9DD0-0A5B11378817}|AddressChangesAutomated\\AddressChangesAutomated.csproj|d:\\projects\\addresschangesautomated\\addresschangesautomated\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F0DBDF-5CBD-42EF-9DD0-0A5B11378817}|AddressChangesAutomated\\AddressChangesAutomated.csproj|solutionrelative:addresschangesautomated\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F0DBDF-5CBD-42EF-9DD0-0A5B11378817}|AddressChangesAutomated\\AddressChangesAutomated.csproj|D:\\Projects\\AddressChangesAutomated\\addresschangesautomated\\notepadhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F0DBDF-5CBD-42EF-9DD0-0A5B11378817}|AddressChangesAutomated\\AddressChangesAutomated.csproj|solutionrelative:addresschangesautomated\\notepadhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F0DBDF-5CBD-42EF-9DD0-0A5B11378817}|AddressChangesAutomated\\AddressChangesAutomated.csproj|D:\\Projects\\AddressChangesAutomated\\addresschangesautomated\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F0DBDF-5CBD-42EF-9DD0-0A5B11378817}|AddressChangesAutomated\\AddressChangesAutomated.csproj|solutionrelative:addresschangesautomated\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F0DBDF-5CBD-42EF-9DD0-0A5B11378817}|AddressChangesAutomated\\AddressChangesAutomated.csproj|D:\\Projects\\AddressChangesAutomated\\addresschangesautomated\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F0DBDF-5CBD-42EF-9DD0-0A5B11378817}|AddressChangesAutomated\\AddressChangesAutomated.csproj|solutionrelative:addresschangesautomated\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\AddressChangesAutomated\\AddressChangesAutomated\\Program.cs",
+              "RelativeDocumentMoniker": "AddressChangesAutomated\\Program.cs",
+              "ToolTip": "D:\\Projects\\AddressChangesAutomated\\AddressChangesAutomated\\Program.cs",
+              "RelativeToolTip": "AddressChangesAutomated\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAACkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:53:25.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotepadHelper.cs",
+              "DocumentMoniker": "D:\\Projects\\AddressChangesAutomated\\AddressChangesAutomated\\NotepadHelper.cs",
+              "RelativeDocumentMoniker": "AddressChangesAutomated\\NotepadHelper.cs",
+              "ToolTip": "D:\\Projects\\AddressChangesAutomated\\AddressChangesAutomated\\NotepadHelper.cs",
+              "RelativeToolTip": "AddressChangesAutomated\\NotepadHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T21:08:59.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BLL.cs",
+              "DocumentMoniker": "D:\\Projects\\AddressChangesAutomated\\AddressChangesAutomated\\BLL.cs",
+              "RelativeDocumentMoniker": "AddressChangesAutomated\\BLL.cs",
+              "ToolTip": "D:\\Projects\\AddressChangesAutomated\\AddressChangesAutomated\\BLL.cs",
+              "RelativeToolTip": "AddressChangesAutomated\\BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T14:50:41.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "D:\\Projects\\AddressChangesAutomated\\AddressChangesAutomated\\DAL.cs",
+              "RelativeDocumentMoniker": "AddressChangesAutomated\\DAL.cs",
+              "ToolTip": "D:\\Projects\\AddressChangesAutomated\\AddressChangesAutomated\\DAL.cs",
+              "RelativeToolTip": "AddressChangesAutomated\\DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T20:31:36.944Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
